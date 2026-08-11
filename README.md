@@ -80,4 +80,4 @@ AI-powered chatbot that allows users to interact with PDF documents using natura
 ## 📫 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/tejas-deore-25413428b
-* Email: tejasdeore27104@gmail.com , deoretejas007@gmail.com
+* Email: tejasdeore27104@gmail.com
